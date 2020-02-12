@@ -25,7 +25,7 @@ We brainstormed ideas of how we wanted the game to look, what possible levels th
 We had so many ideas. But time was tight and we couldn't attempt all of them. 
 - **Pop up to feature the quiz (or keep the quiz on the same page)**: With time constraints and a limited knowledge of the vagaries of Github and Fork we decided it would be simpler to give people different jobs to do on different pages. However had we kept the quiz on the same page, the scoreboard feature would probably work. Something to consider.
 - **Enemies**: We didn't want our spider to have too easy a life and hoped to include a random moving enemy (probably some form of fly swatter) that would pace around the canvas. When you got swatted either you would die and the game would end or you'd lose some points.
-- **Animation**: A bit like the the spider on the home page we would have liked to animate the features on the board (maybe the fly would shake, or the spider would use his web to move around a bit quicker).
+- **Animation**: A bit like the spider on the home page we would have liked to animate the features on the board (maybe the fly would shake, or the spider would use his web to move around a bit quicker).
 - **More quiz questions**: We would have liked to have done more pages but time was not on our side.
 
 ### Known bugs ###
